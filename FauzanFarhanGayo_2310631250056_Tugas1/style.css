@@ -1,0 +1,24 @@
+.category{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.nama{
+    text-align: center;
+}
+body {
+    margin-right: 320px;
+    margin-left: 320px;
+
+}
+strong{
+    font-size: 24px;
+}
+
+body{
+    font-size: large;
+}
+span{
+ color: blue;
+}

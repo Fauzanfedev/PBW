@@ -1,1 +1,15 @@
+tugas ini dibuat untuk memenuhi uts pbw praktikum.
 
+dalam web portofolio ini saya membuat 4 section, yaitu home, portofolio, prestasi, dan contact. pengguna bisa mengakses section dengan menekan tulisan yang ada pada navbar maupun scrolling web
+home berisikan informasi tentang diri saya
+portofolio berisi tentang apa yang pernah saya lakukan dalam bidang yang saya minati
+prestasi berisi pencapaian saya selama kuliah
+contact berisi form yang dapat diisi, dan bisa mengirim pesan yang langsung masuk ke whatsapp pribadi saya setelah mengklik button send message
+lalu dibawah atau footer berisi social media saya yang dapat diakses pengguna
+
+untuk styling color saya menggunakan warna orangered,black,white.
+untuk scroll behavior menggunakan smooth
+font family poppins, sans-serif
+  
+untuk javascript saya menambahkan api untuk form yang menuju whatsapp
+lalu menambahkan beberapa function seperti offset position, function untuk pengisian form
